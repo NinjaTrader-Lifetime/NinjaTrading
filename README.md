@@ -34,7 +34,7 @@ NinjaTrader is free to use for charting, market analysis, and paper trading, pro
 
 # **Installation Guide**
 
-![Installation Guide](https://support.ninjatrader.com/servlet/rtaImage?eid=ka0bV0000004j3N&feoid=00N1T00000AywZL&refid=0EMHs00000HWlah)
+![Installation Guide]([https://support.ninjatrader.com/servlet/rtaImage?eid=ka0bV0000004j3N&feoid=00N1T00000AywZL&refid=0EMHs00000HWlah](https://support.ninjatrader.com/servlet/rtaImage?eid=ka0bV0000004j3N&feoid=00N1T00000AywZL&refid=0EMHs00000HWlah))
 
 <div align="center">  
 
