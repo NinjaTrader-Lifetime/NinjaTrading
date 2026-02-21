@@ -1,5 +1,7 @@
 # NinjaTrader Trading Platform (update 21.02)
 
+<div align="center">
+  
 [![Key Features](https://img.shields.io/badge/Key%20Features-blue)](#key-features)
 [![Quick Start Guide](https://img.shields.io/badge/Quick%20Start%20Guide-lightblue)](#quick-start-guide)
 [![Installation Guide](https://img.shields.io/badge/Installation%20Guide-green)](#installation-guide)
@@ -7,6 +9,8 @@
 [![System Requirements](https://img.shields.io/badge/System%20Requirements-yellow)](#system-requirements)
 [![Troubleshooting](https://img.shields.io/badge/Troubleshooting-red)](#troubleshooting--support)
 [![SEO Keywords](https://img.shields.io/badge/SEO%20Keywords-lightgray)](#seo-keywords)
+
+</div>
 
 ---
 
