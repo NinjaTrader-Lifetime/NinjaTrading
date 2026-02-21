@@ -1,4 +1,4 @@
-# NinjaTrader Trading Platform
+# NinjaTrader Trading Platform (update 21.02)
 
 [![Key Features](https://img.shields.io/badge/Key%20Features-blue)](#key-features)
 [![Quick Start Guide](https://img.shields.io/badge/Quick%20Start%20Guide-lightblue)](#quick-start-guide)
@@ -34,11 +34,9 @@ NinjaTrader is free to use for charting, market analysis, and paper trading, pro
 
 # **Installation Guide**
 
-<div align="center">
 ```
 ![Installation Guide](https://support.ninjatrader.com/servlet/rtaImage?eid=ka0bV0000004j3N&feoid=00N1T00000AywZL&refid=0EMHs00000HWlah)
-```
-</div>  
+``` 
 
 <div align="center">  
 
